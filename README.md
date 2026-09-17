@@ -102,6 +102,17 @@ A Streamlit app (`app/app.py`) lets you enter a customer's details and get:
 - Risk level (Low / Medium / High)
 - A plain-language prediction
 - The top model-driven factors behind that specific prediction
+## Application Screenshots
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard-1.png)
+
+![Dashboard](screenshots/dashboard-2.png)
+
+### Churn Prediction
+
+![Churn Prediction](screenshots/prediction.png)
 
 ### Running the app
 
